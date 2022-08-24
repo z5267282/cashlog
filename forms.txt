@@ -1,0 +1,18 @@
+# money
+dd.dd
+$dd
+dd$
+d
+
+# quantity
+[ money ]
+xd
+
+# size
+(size)
+
+# location
+@location
+
+# person
++person

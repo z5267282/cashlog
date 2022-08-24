@@ -1,0 +1,7 @@
+DATE = 'date'
+NAME = 'name'
+PRICE = 'price'
+QTY = 'quantity'
+LOC = 'location'
+WITH = 'with'
+SIZE = 'size'

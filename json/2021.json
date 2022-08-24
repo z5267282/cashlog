@@ -1,0 +1,375 @@
+[
+    {
+        "date": "08/02/2021",
+        "name": "chiclen roll",
+        "price": "5",
+        "quantity": "2"
+    },
+    {
+        "date": "11/02/2021",
+        "name": "lemon ice tea",
+        "price": "2",
+        "location": "Lemon Grove"
+    },
+    {
+        "date": "14/02/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "24/02/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "20/03/2021",
+        "name": "chiclen roll",
+        "price": "5",
+        "quantity": "2"
+    },
+    {
+        "date": "20/03/2021",
+        "name": "glass coke",
+        "price": "3.5"
+    },
+    {
+        "date": "26/03/2021",
+        "name": "chiclen roll",
+        "price": "5",
+        "quantity": "2"
+    },
+    {
+        "date": "26/03/2021",
+        "name": "glass coke",
+        "price": "3.5"
+    },
+    {
+        "date": "03/04/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "10/04/2021",
+        "name": "chiclen roll",
+        "price": "5",
+        "quantity": "2"
+    },
+    {
+        "date": "12/04/2021",
+        "name": "sweet sour pork",
+        "price": "10"
+    },
+    {
+        "date": "12/04/2021",
+        "name": "bad see ew beef",
+        "price": "10"
+    },
+    {
+        "date": "12/04/2021",
+        "name": "haircut",
+        "price": "25"
+    },
+    {
+        "date": "14/04/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "17/04/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "18/04/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "18/04/2021",
+        "name": "class coke",
+        "price": "3.5"
+    },
+    {
+        "date": "28/04/2021",
+        "name": "chiclen roll",
+        "price": "5",
+        "quantity": "2"
+    },
+    {
+        "date": "28/04/2021",
+        "name": "glass coke",
+        "price": "3.5"
+    },
+    {
+        "date": "29/04/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "29/04/2021",
+        "name": "lychee juice",
+        "price": "2.50"
+    },
+    {
+        "date": "07/05/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "09/05/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "09/05/2021",
+        "name": "rice paper roll prawn",
+        "price": "2",
+        "quantity": "2"
+    },
+    {
+        "date": "09/05/2021",
+        "name": "rice paper roll pork",
+        "price": "2",
+        "quantity": "1"
+    },
+    {
+        "date": "16/05/2021",
+        "name": "bread",
+        "price": "2.50",
+        "quantity": "5"
+    },
+    {
+        "date": "16/05/2021",
+        "name": "chiclen roll",
+        "price": "3.75",
+        "quantity": "2"
+    },
+    {
+        "date": "21/05/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "26/05/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "26/05/2021",
+        "name": "rice paper roll bbq pork",
+        "price": "2",
+        "quantity": "3"
+    },
+    {
+        "date": "27/05/2021",
+        "name": "crispy pork roll",
+        "price": "7.50"
+    },
+    {
+        "date": "31/05/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "31/05/2021",
+        "name": "donation",
+        "price": "1.50"
+    },
+    {
+        "date": "08/06/2021",
+        "name": "donation",
+        "price": "0.3"
+    },
+    {
+        "date": "26/06/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "03/07/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "27/07/2021",
+        "name": "bbq pork roll",
+        "price": "6.5",
+        "location": "Gladesville"
+    },
+    {
+        "date": "27/07/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "27/07/2021",
+        "name": "sunkist",
+        "price": "2"
+    },
+    {
+        "date": "19/06/2021",
+        "name": "beef noodle soup",
+        "price": "14.80"
+    },
+    {
+        "date": "14/08/2021",
+        "name": "pork rolle",
+        "price": "6.5",
+        "location": "Gordon Bahn Mi"
+    },
+    {
+        "date": "06/08/2021",
+        "name": "pork rolle",
+        "price": "6"
+    },
+    {
+        "date": "14/09/2021",
+        "name": "crispy pork roll",
+        "price": "6.50",
+        "location": "Lim'S Hot Bread"
+    },
+    {
+        "date": "15/09/2021",
+        "name": "chicken roll",
+        "price": "6",
+        "location": "Gladesville Hot Bread"
+    },
+    {
+        "date": "24/09/2021",
+        "name": "pork rolle",
+        "price": "6"
+    },
+    {
+        "date": "30/09/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "04/10/2021",
+        "name": "crispy pork roll",
+        "price": "6.50",
+        "location": "Lim'S Hot Bread"
+    },
+    {
+        "date": "06/10/2021",
+        "name": "pork rolle",
+        "price": "6"
+    },
+    {
+        "date": "12/10/2021",
+        "name": "crispy pork roll",
+        "price": "6.50",
+        "location": "Lim'S Hot Bread"
+    },
+    {
+        "date": "13/10/2021",
+        "name": "pork rolle",
+        "price": "5"
+    },
+    {
+        "date": "17/10/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "17/10/2021",
+        "name": "cheese",
+        "price": "1"
+    },
+    {
+        "date": "17/10/2021",
+        "name": "green apple ade",
+        "price": "6"
+    },
+    {
+        "date": "21/10/2021",
+        "name": "taiwan grape",
+        "price": "2.10"
+    },
+    {
+        "date": "21/10/2021",
+        "name": "taiwan peach",
+        "price": "1"
+    },
+    {
+        "date": "01/11/2021",
+        "name": "take away container",
+        "price": "1"
+    },
+    {
+        "date": "01/11/2021",
+        "name": "bread",
+        "price": "0.5"
+    },
+    {
+        "date": "01/11/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "07/11/2021",
+        "name": "pork rolle",
+        "price": "6"
+    },
+    {
+        "date": "18/11/2021",
+        "name": "viet pork roll",
+        "price": "5.5",
+        "location": "Lim'S Hot Bread"
+    },
+    {
+        "date": "19/11/2021",
+        "name": "crispy pork roll",
+        "price": "7"
+    },
+    {
+        "date": "19/11/2021",
+        "name": "lim",
+        "price": "@Lim's Hot Bread"
+    },
+    {
+        "date": "21/11/2021",
+        "name": "1 hour refil gaming cafe",
+        "price": "2",
+        "quantity": "5"
+    },
+    {
+        "date": "25/11/2021",
+        "name": "jiboo food",
+        "price": "20"
+    },
+    {
+        "date": "01/12/2021",
+        "name": "3",
+        "price": "Slurpies"
+    },
+    {
+        "date": "11/12/2021",
+        "name": "pork rolle",
+        "price": "5",
+        "location": "Bankstown Ban Ngo"
+    },
+    {
+        "date": "18/12/2021",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "18/12/2021",
+        "name": "crispy pork roll",
+        "price": "6",
+        "location": "Opposite Cabbie Station"
+    },
+    {
+        "date": "18/12/2021",
+        "name": "cn",
+        "price": "8",
+        "location": "Two Peck"
+    },
+    {
+        "date": "23/12/2021",
+        "name": "cn",
+        "price": "8",
+        "location": "Two Peck Rhodes"
+    }
+]
