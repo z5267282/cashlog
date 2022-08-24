@@ -1,5 +1,5 @@
 # cashlog
-A program that parses cash transactions into buckets
+A program that parses cash transactions into buckets.
 
 Enter data in the following format:
 ```
@@ -12,4 +12,6 @@ price
   ([size])
 ```
 
-Newlines separate days
+Newlines separate days.
+
+A data file must not end with a singular newline.
