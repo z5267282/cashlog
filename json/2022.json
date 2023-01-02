@@ -1,289 +1,258 @@
 [
     {
-        "date": "07/01/2022",
-        "name": "honey",
-        "price": "40"
+        "date": "31/12/2022",
+        "name": "17",
+        "price": "Loaded fries"
     },
     {
-        "date": "07/01/2022",
-        "name": "honey spoon",
-        "price": "5"
+        "date": "21/12/2022",
+        "name": "6",
+        "price": "Bread roll x3"
     },
     {
-        "date": "07/01/2022",
-        "name": "chicken sandwich",
-        "price": "12.95"
+        "date": "20/12/2022",
+        "name": "0.7",
+        "price": "Roll"
     },
     {
-        "date": "08/01/2022",
-        "name": "crispy chicken",
-        "price": "7",
-        "location": "Destination Roll"
+        "date": "20/12/2022",
+        "name": "0.3",
+        "price": "Donation"
     },
     {
-        "date": "13/01/2022",
-        "name": "card jordan",
-        "price": "3.25"
+        "date": "20/12/2022",
+        "name": "6",
+        "price": "Chicken roll"
     },
     {
-        "date": "16/01/2022",
-        "name": "two peck nuggets",
-        "price": "8.5"
+        "date": "20/12/2022",
+        "name": "5",
+        "price": "Teriyaki chicken roll"
     },
     {
-        "date": "22/01/2022",
-        "name": "two peck melbourne",
-        "price": "8"
+        "date": "20/12/2022",
+        "name": "10",
+        "price": "Grilled salmon",
+        "location": "Makato Sushi"
     },
     {
-        "date": "27/01/2022",
-        "name": "chiclen roll",
-        "price": "5"
+        "date": "19/12/2022",
+        "name": "7",
+        "price": "Chicken roll"
     },
     {
-        "date": "27/01/2022",
-        "name": "solo",
-        "price": "2"
+        "date": "14/12/2022",
+        "name": "7",
+        "price": "Pork roll"
     },
     {
-        "date": "01/02/2022",
-        "name": "grape sparkling",
-        "price": "6.5",
-        "location": "Bubble Nini City"
+        "date": "14/12/2022",
+        "name": "2.5",
+        "price": "Pasito"
     },
     {
-        "date": "25/02/2022",
-        "name": "pork roll",
-        "price": "7"
+        "date": "12/12/2022",
+        "name": "15",
+        "price": "Mixed snack pack"
     },
     {
-        "date": "09/03/2022",
-        "name": "pad thai chicken",
-        "price": "10"
+        "date": "12/12/2022",
+        "name": "3",
+        "price": "Pasito"
     },
     {
-        "date": "12/03/2022",
-        "name": "taro milk tea",
-        "price": "4.2"
+        "date": "10/12/2022",
+        "name": "17",
+        "price": "Pad Thai chicken"
     },
     {
-        "date": "12/03/2022",
-        "name": "sweet sour soup",
-        "price": "4.9"
+        "date": "09/12/2022",
+        "name": "18.50",
+        "price": "Pad Thai chicken"
     },
     {
-        "date": "12/03/2022",
-        "name": "beef brisket curry",
-        "price": "8.2"
+        "date": "08/12/2022",
+        "name": "12",
+        "price": "Spicy chicken with rice"
     },
     {
-        "date": "14/02/2022",
-        "name": "half snack pack",
-        "price": "9",
-        "quantity": "0.5",
-        "with": "Christian"
+        "date": "04/12/2022",
+        "name": "7",
+        "price": "Chicken roll"
     },
     {
-        "date": "18/03/2022",
-        "name": "fish cocktail",
-        "price": "2",
-        "quantity": "2"
+        "date": "04/12/2022",
+        "name": "3.5",
+        "price": "Aloe Vera"
     },
     {
-        "date": "18/03/2022",
-        "name": "pork roll",
-        "price": "7"
+        "date": "04/12/2022",
+        "name": "6",
+        "price": "Pork roll "
     },
     {
-        "date": "21/03/2022",
-        "name": "pt",
-        "price": "7.5"
+        "date": "02/12/2022",
+        "name": "6.5",
+        "price": "Dim sum x2"
     },
     {
-        "date": "21/03/2022",
-        "name": "ps",
-        "price": "7.5"
+        "date": "02/12/2022",
+        "name": "12",
+        "price": "Chicken Char Kway Teow"
     },
     {
-        "date": "21/04/2022",
-        "name": "roll",
-        "price": "1"
+        "date": "30/11/2022",
+        "name": "17",
+        "price": "Beef pad see ew",
+        "location": "Monkey Thai Lindfield"
     },
     {
-        "date": "21/04/2022",
-        "name": "chiclen roll",
-        "price": "5"
+        "date": "29/11/2022",
+        "name": "5",
+        "price": "Shin ramen"
     },
     {
-        "date": "21/04/2022",
-        "name": "lychee",
-        "price": "1.5"
+        "date": "29/11/2022",
+        "name": "1.6",
+        "price": "Grape lollies",
+        "location": "Eastwood Mart"
     },
     {
-        "date": "27/05/2022",
-        "name": "chiclen roll",
-        "price": "5"
+        "date": "28/11/2022",
+        "name": "5.5",
+        "price": "Large mocha",
+        "location": "More Avenue Cafe"
     },
     {
-        "date": "27/05/2022",
-        "name": "lychee aloe vera bottle",
-        "price": "3.5"
+        "date": "28/11/2022",
+        "name": "8",
+        "price": "Crispy pork roll",
+        "location": "Lim\u2019S Hot Bread"
     },
     {
-        "date": "02/05/2022",
-        "name": "grilled salmon",
-        "price": "8.8"
+        "date": "20/11/2022",
+        "name": "10",
+        "price": "Baked beef rice"
     },
     {
-        "date": "18/05/2022",
-        "name": "pork roll",
-        "price": "5",
-        "location": "Tran And Son"
+        "date": "27/10/2022",
+        "name": "4",
+        "price": "Boost - Berry Crush"
     },
     {
-        "date": "18/05/2022",
-        "name": "chiclen roll",
-        "price": "5"
+        "date": "26/10/2022",
+        "name": "13.5",
+        "price": "Beef Pho",
+        "location": "North Strathfield"
     },
     {
-        "date": "18/05/2022",
-        "name": "price increase",
-        "price": "1"
+        "date": "22/10/2022",
+        "name": "4",
+        "price": "Lemon soda"
     },
     {
-        "date": "18/05/2022",
-        "name": "rice paper roll",
-        "price": "6.5"
+        "date": "22/10/2022",
+        "name": "29",
+        "price": "Crispy chicken pho"
     },
     {
-        "date": "19/05/2022",
+        "date": "22/10/2022",
+        "name": "spring rolls x4",
+        "price": "29"
+    },
+    {
+        "date": "09/10/2022",
+        "name": "3.5",
+        "price": "Bunnings snag"
+    },
+    {
+        "date": "09/10/2022",
+        "name": "6",
+        "price": "Chicken roll"
+    },
+    {
+        "date": "02/10/2022",
+        "name": "6",
+        "price": "Chicken roll"
+    },
+    {
+        "date": "30/09/2022",
+        "name": "9.8",
+        "price": "Egg beef rice"
+    },
+    {
+        "date": "30/09/2022",
+        "name": "11.8",
+        "price": "Baked beef brisket"
+    },
+    {
+        "date": "30/09/2022",
+        "name": "4.9",
+        "price": "Mango slushy"
+    },
+    {
+        "date": "30/09/2022",
+        "name": "total",
+        "price": "26.4"
+    },
+    {
+        "date": "17/09/2022",
+        "name": "8.5",
+        "price": "Rozelle sparkling"
+    },
+    {
+        "date": "17/09/2022",
+        "name": "0",
+        "price": "Aloe Vera"
+    },
+    {
+        "date": "16/09/2022",
+        "name": "8.5",
+        "price": "Tropical sparkling"
+    },
+    {
+        "date": "16/09/2022",
+        "name": "0",
+        "price": "Grape jelly"
+    },
+    {
+        "date": "04/09/2022",
         "name": "mixed roll",
-        "price": "6"
+        "price": "7"
     },
     {
-        "date": "19/05/2022",
+        "date": "04/09/2022",
+        "name": "water",
+        "price": "2.5"
+    },
+    {
+        "date": "04/09/2022",
         "name": "lychee juice",
         "price": "2.5"
     },
     {
-        "date": "27/06/2022",
-        "name": "chiclen roll",
-        "price": "6"
+        "date": "13/08/2022",
+        "name": "milk tea",
+        "price": "4.8"
     },
     {
-        "date": "27/06/2022",
-        "name": "glass coke",
-        "price": "3.5"
+        "date": "13/08/2022",
+        "name": "braised beef noodle soup",
+        "price": "12.5"
     },
     {
-        "date": "27/06/2022",
-        "name": "pork roll",
-        "price": "6"
-    },
-    {
-        "date": "27/06/2022",
-        "name": "twist",
-        "price": "2"
-    },
-    {
-        "date": "29/06/2022",
-        "name": "lemonade",
-        "price": "1"
-    },
-    {
-        "date": "02/07/2022",
-        "name": "zipper repair",
-        "price": "5"
-    },
-    {
-        "date": "02/07/2022",
-        "name": "shin ramen",
-        "price": "5",
-        "location": "Eastwood"
-    },
-    {
-        "date": "10/07/2022",
-        "name": "pork roll",
-        "price": "7"
-    },
-    {
-        "date": "15/07/2022",
-        "name": "mixed roll",
-        "price": "6",
-        "quantity": "2"
-    },
-    {
-        "date": "17/07/2022",
-        "name": "malatang",
-        "price": "25.30"
-    },
-    {
-        "date": "17/07/2022",
-        "name": "purple rice yoghurt",
-        "price": "6.3"
-    },
-    {
-        "date": "22/07/2022",
-        "name": "dominoes pepperoni thin crust",
-        "price": "0"
-    },
-    {
-        "date": "22/07/2022",
-        "name": "solo",
-        "price": "2.5"
-    },
-    {
-        "date": "25/07/2022",
-        "name": "mixed roll",
-        "price": "6"
-    },
-    {
-        "date": "25/07/2022",
-        "name": "glass coke",
-        "price": "3.5"
-    },
-    {
-        "date": "25/07/2022",
-        "name": "pork roll",
-        "price": "6"
-    },
-    {
-        "date": "30/07/2022",
-        "name": "pork roll",
+        "date": "13/08/2022",
+        "name": "original pancake",
         "price": "5.5"
     },
     {
-        "date": "30/07/2022",
-        "name": "st",
-        "price": "2.5",
-        "quantity": "3"
+        "date": "12/08/2022",
+        "name": "ice tea",
+        "price": "2.5"
     },
     {
-        "date": "31/07/2022",
-        "name": "ps",
-        "price": "16.5",
-        "location": "Time For Thai"
-    },
-    {
-        "date": "04/08/2022",
-        "name": "lollies",
-        "price": "5.5",
-        "location": "Joymart"
-    },
-    {
-        "date": "09/08/2022",
-        "name": "snack pack",
-        "price": "18"
-    },
-    {
-        "date": "09/08/2022",
-        "name": "cheese",
-        "price": "2"
-    },
-    {
-        "date": "09/08/2022",
-        "name": "glass coke",
-        "price": "5",
-        "location": "Parramatta Rd"
+        "date": "12/08/2022",
+        "name": "malatang 500g 6.8",
+        "price": "11.9"
     }
 ]

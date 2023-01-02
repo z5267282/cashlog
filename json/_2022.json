@@ -1,0 +1,289 @@
+[
+    {
+        "date": "07/01/2022",
+        "name": "honey",
+        "price": "40"
+    },
+    {
+        "date": "07/01/2022",
+        "name": "honey spoon",
+        "price": "5"
+    },
+    {
+        "date": "07/01/2022",
+        "name": "chicken sandwich",
+        "price": "12.95"
+    },
+    {
+        "date": "08/01/2022",
+        "name": "crispy chicken",
+        "price": "7",
+        "location": "Destination Roll"
+    },
+    {
+        "date": "13/01/2022",
+        "name": "card jordan",
+        "price": "3.25"
+    },
+    {
+        "date": "16/01/2022",
+        "name": "two peck nuggets",
+        "price": "8.5"
+    },
+    {
+        "date": "22/01/2022",
+        "name": "two peck melbourne",
+        "price": "8"
+    },
+    {
+        "date": "27/01/2022",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "27/01/2022",
+        "name": "solo",
+        "price": "2"
+    },
+    {
+        "date": "01/02/2022",
+        "name": "grape sparkling",
+        "price": "6.5",
+        "location": "Bubble Nini City"
+    },
+    {
+        "date": "25/02/2022",
+        "name": "pork roll",
+        "price": "7"
+    },
+    {
+        "date": "09/03/2022",
+        "name": "pad thai chicken",
+        "price": "10"
+    },
+    {
+        "date": "12/03/2022",
+        "name": "taro milk tea",
+        "price": "4.2"
+    },
+    {
+        "date": "12/03/2022",
+        "name": "sweet sour soup",
+        "price": "4.9"
+    },
+    {
+        "date": "12/03/2022",
+        "name": "beef brisket curry",
+        "price": "8.2"
+    },
+    {
+        "date": "14/02/2022",
+        "name": "half snack pack",
+        "price": "9",
+        "quantity": "0.5",
+        "with": "Christian"
+    },
+    {
+        "date": "18/03/2022",
+        "name": "fish cocktail",
+        "price": "2",
+        "quantity": "2"
+    },
+    {
+        "date": "18/03/2022",
+        "name": "pork roll",
+        "price": "7"
+    },
+    {
+        "date": "21/03/2022",
+        "name": "pt",
+        "price": "7.5"
+    },
+    {
+        "date": "21/03/2022",
+        "name": "ps",
+        "price": "7.5"
+    },
+    {
+        "date": "21/04/2022",
+        "name": "roll",
+        "price": "1"
+    },
+    {
+        "date": "21/04/2022",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "21/04/2022",
+        "name": "lychee",
+        "price": "1.5"
+    },
+    {
+        "date": "27/05/2022",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "27/05/2022",
+        "name": "lychee aloe vera bottle",
+        "price": "3.5"
+    },
+    {
+        "date": "02/05/2022",
+        "name": "grilled salmon",
+        "price": "8.8"
+    },
+    {
+        "date": "18/05/2022",
+        "name": "pork roll",
+        "price": "5",
+        "location": "Tran And Son"
+    },
+    {
+        "date": "18/05/2022",
+        "name": "chiclen roll",
+        "price": "5"
+    },
+    {
+        "date": "18/05/2022",
+        "name": "price increase",
+        "price": "1"
+    },
+    {
+        "date": "18/05/2022",
+        "name": "rice paper roll",
+        "price": "6.5"
+    },
+    {
+        "date": "19/05/2022",
+        "name": "mixed roll",
+        "price": "6"
+    },
+    {
+        "date": "19/05/2022",
+        "name": "lychee juice",
+        "price": "2.5"
+    },
+    {
+        "date": "27/06/2022",
+        "name": "chiclen roll",
+        "price": "6"
+    },
+    {
+        "date": "27/06/2022",
+        "name": "glass coke",
+        "price": "3.5"
+    },
+    {
+        "date": "27/06/2022",
+        "name": "pork roll",
+        "price": "6"
+    },
+    {
+        "date": "27/06/2022",
+        "name": "twist",
+        "price": "2"
+    },
+    {
+        "date": "29/06/2022",
+        "name": "lemonade",
+        "price": "1"
+    },
+    {
+        "date": "02/07/2022",
+        "name": "zipper repair",
+        "price": "5"
+    },
+    {
+        "date": "02/07/2022",
+        "name": "shin ramen",
+        "price": "5",
+        "location": "Eastwood"
+    },
+    {
+        "date": "10/07/2022",
+        "name": "pork roll",
+        "price": "7"
+    },
+    {
+        "date": "15/07/2022",
+        "name": "mixed roll",
+        "price": "6",
+        "quantity": "2"
+    },
+    {
+        "date": "17/07/2022",
+        "name": "malatang",
+        "price": "25.30"
+    },
+    {
+        "date": "17/07/2022",
+        "name": "purple rice yoghurt",
+        "price": "6.3"
+    },
+    {
+        "date": "22/07/2022",
+        "name": "dominoes pepperoni thin crust",
+        "price": "0"
+    },
+    {
+        "date": "22/07/2022",
+        "name": "solo",
+        "price": "2.5"
+    },
+    {
+        "date": "25/07/2022",
+        "name": "mixed roll",
+        "price": "6"
+    },
+    {
+        "date": "25/07/2022",
+        "name": "glass coke",
+        "price": "3.5"
+    },
+    {
+        "date": "25/07/2022",
+        "name": "pork roll",
+        "price": "6"
+    },
+    {
+        "date": "30/07/2022",
+        "name": "pork roll",
+        "price": "5.5"
+    },
+    {
+        "date": "30/07/2022",
+        "name": "st",
+        "price": "2.5",
+        "quantity": "3"
+    },
+    {
+        "date": "31/07/2022",
+        "name": "ps",
+        "price": "16.5",
+        "location": "Time For Thai"
+    },
+    {
+        "date": "04/08/2022",
+        "name": "lollies",
+        "price": "5.5",
+        "location": "Joymart"
+    },
+    {
+        "date": "09/08/2022",
+        "name": "snack pack",
+        "price": "18"
+    },
+    {
+        "date": "09/08/2022",
+        "name": "cheese",
+        "price": "2"
+    },
+    {
+        "date": "09/08/2022",
+        "name": "glass coke",
+        "price": "5",
+        "location": "Parramatta Rd"
+    }
+]
